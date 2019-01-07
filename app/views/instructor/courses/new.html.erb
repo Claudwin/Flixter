@@ -1,0 +1,17 @@
+<br />
+<%= simple_form_for @course, url: instructor_courses_path do |f| %>
+    <div class="container">
+        <form>
+            <div class="form-group">
+                    <h2>Add a new course</h2>
+                    <br/>
+                <%= f.input :title %>
+                <%= f.input :description %>
+                <%= f.input :cost %>
+                <br />
+                <%= f.submit "Create", class: 'btn btn-primary' %>
+                <br />
+            </div>
+        </form>
+    </div>
+<% end %>
