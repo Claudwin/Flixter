@@ -1,0 +1,14 @@
+<%= simple_form_for @lesson, url: instructor_section_lessons_path(@section) do |f| %>
+<br />
+    <div class="container">
+        <form>
+            <div class="form-group">
+                <h1>Add a new section</h1>
+                    <%= f.input :title %>
+                    <%= f.input :subtitle %>
+                    <br/>
+                    <%= f.submit "Add the Lesson"%>   
+            </div>
+        </form>            
+    </div>
+    <% end %>
