@@ -1,0 +1,12 @@
+<%= simple_form_for @section, url: instructor_course_sections_path(@course) do |f| %>
+<br />
+    <div class="container">
+        <form>
+            <div class="form-group">
+                <h1>Add a new section</h1>
+                    <%= f.input :title %>
+                    <%= f.submit "Add a section", class: 'btn btn-primary' %>
+            </div>
+        </form>            
+    </div>
+  <% end %>
