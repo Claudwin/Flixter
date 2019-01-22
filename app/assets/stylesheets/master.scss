@@ -44,6 +44,17 @@ h1, h2, h3, h4, h5, h6, .navbar {
 body {
     font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }
+#footer {
+    position: relative;
+    width: 100%;
+    min-height: 100px;
+    background-color: rgba(36, 32, 33, 0.9);
+    color: white;
+    font-family: "Helvetica Neue", Helvetica;
+    padding: 10px 0px;
+    margin-top: 30px;
+    font-weight: 100;
+}
 
 .invalid-feedback {
     color: #ff3333;
@@ -102,4 +113,10 @@ ul .header .fas {
 }
 .lessons li b {
     margin: 0;
+}
+.social a:hover {
+    text-decoration: none;
+}
+.social-button {
+    margin: 4px;
 }
