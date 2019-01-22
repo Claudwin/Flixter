@@ -24,7 +24,12 @@ h1, h2, h3, h4, h5, h6, .navbar {
 }
 .frosty {
     background: rgba(0, 0, 0, 0.5);
-    color: white;
+    color: #fff;
+    font-family: 'Assistant',
+    sans-serif;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    border-radius: 0.25rem;
 }
 .frosty h1 {
     font-family: "Helvetica Neue", Helvetica;
@@ -35,6 +40,13 @@ h1, h2, h3, h4, h5, h6, .navbar {
     font-family: "Helvetica Neue", Helvetica;
     font-weight: 200;
     text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
+}
+.row {
+    max-width: 75rem;
+    margin-right: auto;
+    margin-left: auto;
+    /* display: flex; */
+    flex-flow: row wrap;
 }
 .feature {
     width: 100%;
