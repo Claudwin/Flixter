@@ -19,4 +19,4 @@ video-streaming marketplace, featuring credit card payment capabilities, user ro
 ![flixter course page](https://user-images.githubusercontent.com/35431904/52344477-1ac05d80-29d8-11e9-9020-54ef85538fe8.jpg)
 
 ## Administrator Page
-![flixter instructed page](https://user-images.githubusercontent.com/35431904/52344623-7d195e00-29d8-11e9-8fe0-14c50770a083.jp
+![flixter instructed page](https://user-images.githubusercontent.com/35431904/52344623-7d195e00-29d8-11e9-8fe0-14c50770a083.jpg)
