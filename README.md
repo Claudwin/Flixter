@@ -1,24 +1,19 @@
-# README
+# Flixter
+video-streaming marketplace, featuring credit card payment capabilities, user role management, advanced UI and UX, and advanced database relationships, which is similar to other platforms like Udemy. HTML 5, CSS3, JavaScript & Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Features
 
-Things you may want to cover:
+* Credit card capabilites using stripe Api
+* User role management
+* Complex user interface
+* Advance database relationships
+# Screenshots
 
-* Ruby version
+### Homepage 
+![flixter homepage](https://user-images.githubusercontent.com/35431904/52344344-b43b3f80-29d7-11e9-9725-979d6a9391f1.jpg)
 
-* System dependencies
+### Course Page 
+![flixter course page](https://user-images.githubusercontent.com/35431904/52344477-1ac05d80-29d8-11e9-9020-54ef85538fe8.jpg)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Administrator Page
+![flixter instructed page](https://user-images.githubusercontent.com/35431904/52344623-7d195e00-29d8-11e9-8fe0-14c50770a083.jpg)
